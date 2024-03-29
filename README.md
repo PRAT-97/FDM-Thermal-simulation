@@ -1,6 +1,6 @@
 # FDM-Thermal-simulation
 # Description:
-This repository contains a comprehensive set of tools for Finite Difference Method (FDM) thermal simulations. It offers functionalities for both steady-state and transient simulations in one and two-dimensional domains. The toolkit enables users to perform thermal calculations considering various boundary conditions such as convective and adiabatic.
+This repository contains a comprehensive set of tools for Finite Difference Method (FDM) thermal simulations. It offers functionalities for both steady-state and transient simulations in one and two-dimensional domains. The toolkit enables users to perform thermal calculations considering various boundary conditions such as convective and adiabatic. The file contains C++  Script and Gnu Plot Script
 
 # Features:
 
