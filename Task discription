@@ -1,0 +1,5 @@
+# Task Discription
+
+1. 2D steady state plate with adiabatic wall condition on one end and a formula to calculation wall temperature on bottom of wall using Finite-Difference Method. 
+2. A 1D bar for transient heat condition with convective boundary condition using Finite-Difference Method. 
+
